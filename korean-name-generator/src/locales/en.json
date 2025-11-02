@@ -1,0 +1,39 @@
+{
+  "landing": {
+    "title": "Find Your Korean Name",
+    "description": "A gift of a beautiful name with profound meaning.",
+    "cta": "Get Started"
+  },
+  "start": {
+    "title": "Find Your Korean Name",
+    "description": "We'll gift you a name with a beautiful meaning.",
+    "label": "Your English Name",
+    "placeholder": "e.g., Michael",
+    "cta": "Next Step"
+  },
+  "preferences": {
+    "title": "Tell us a little<br/>more about you",
+    "description": "We'll find the perfect name for you.",
+    "gender": "What is your gender?",
+    "male": "Male",
+    "female": "Female",
+    "style": "Choose your preferred name style.",
+    "modern": "Modern",
+    "traditional": "Traditional",
+    "gentle": "Gentle",
+    "strong": "Strong",
+    "meaning": "Any preferred meanings? (Optional)",
+    "meaning_placeholder": "e.g. wisdom, courage, love",
+    "cta": "Get Name Recommendations"
+  },
+  "results": {
+    "title": "Recommended Names<br/>for {name}",
+    "description": "Choose a name you like and share it.",
+    "top_recommendation": "Top Recommendation",
+    "second_recommendation": "Second Recommendation",
+    "meaning": "Meaning:",
+    "relevance": "Relevance:",
+    "cta": "Get New Recommendations"
+  },
+  "language": "English"
+}
